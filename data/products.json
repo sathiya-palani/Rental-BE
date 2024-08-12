@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Iphone 14",
+        "category": "Electronics",
+        "rentalRatePerMonth":10000,
+        "location":"chenani",
+        "specification":"Good working condition , Good camera quality , sound quality",
+        "images": [
+          {
+              "image":"./images/6.jpeg"
+          }   
+        ],
+        "description": "Damage should not happen ",
+        "available": "available",
+        "availableDate":"01/08/2024"
+      },
+      {
+        "name": "HP",
+        "category": "Electronics",
+        "rentalRatePerMonth":5000,
+        "location":"coimbatore",
+        "specification":"Good working condition, newly launched",
+        "images": [
+          {
+            "image":"./images/5.png"
+        }  
+        ],
+        "description": "Damage should not happen ",
+        "available": "available",
+        "availableDate":"02/08/2024"   
+      },
+      {
+        "name": "Maruti Suzuki Dezire",
+        "category": "Vehicle",
+        "rentalRatePerMonth":10000,
+        "location":"coimbatore",
+        "specification":"AC ,Automatic, Petrol vehicle,Good Mileage",
+        "images": [
+          {
+            "image":"./images/2.jpeg"
+        }  
+        ],
+        "description": "High speed should be avoided",
+        "available": "available",
+        "availableDate":"04/08/2024"   
+      },
+      
+      {
+        "name": "ASUS",
+        "category": "Electronics",
+        "rentalRatePerMonth":5000,
+        "location":"Bangalore",
+        "specification":"Gaming Laptop ",
+        "images": [
+          {
+            "image":"./images/1.jpeg"
+        }  
+        ],
+        "description": "Good working condition",
+        "available": "  available",
+        "availableDate":"10/08/2024" 
+      },
+      {
+        "name": "Mi TV ",
+        "category": "Electronics",
+        "rentalRatePerMonth":5000,
+        "location":"Bangalore",
+        "specification":"HD quality, Good sound quality",
+        "images": [
+          {
+            "image":"./images/3.jpeg"
+        }  
+        ],
+        "description": "Aviod High voltage",
+        "available": "  available",
+        "availableDate":"15/08/2024" 
+      },
+     
+      {
+        "name": "Yamaha R15 ",
+        "category": "Vehicle",
+        "rentalRatePerMonth":15000,
+        "location":"chennai",
+        "specification":"Racing Bike, 250cc",
+        "images": [
+          {
+            "image":"./images/4.jpg"
+        }  
+        ],
+        "description": "Damage should not happen ",
+        "available": "  available",
+        "availableDate":"20/08/2024" 
+      }
+]
