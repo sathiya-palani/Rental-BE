@@ -1,6 +1,6 @@
 ##  MarketPlace for Rental Equipment
 
-      This is a simple Rental application that allows users to view products, add products to cart and allowed for Booking. The admin will create, update and delete products.
+ This is a simple Rental application that allows users to view products, add products to cart and allowed for Booking. The admin will create, update and delete products.
 
 The application is built using the following technologies:
 
